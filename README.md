@@ -3,10 +3,10 @@
 **Versión:** 0.0.1 (Según archivos al 07/06/2025)
 **Autor Principal:** Mauricio José Tobares (Conceptualización y Dirección)
 **Desarrollo:** PJ (Programador Jefe IA) y Equipo de Asistentes IA:
-**    Gestor de Proyectos (GP)
-**    UX/UI (DUXUI)
-**    Programador Jefe (PJ)
-**    Ingeniedo de pruebas (IP)
+*   Gestor de Proyectos (GP)
+*   UX/UI (DUXUI)
+*   Programador Jefe (PJ)
+*   Ingeniedo de pruebas (IP)
 
 ## Descripción General
 
