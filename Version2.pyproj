@@ -21,8 +21,6 @@
   <ItemGroup>
     <Content Include="app_icon.ico" />
     <Content Include="bold.png" />
-    <Content Include="build\ReinventProse2\warn-ReinventProse2.txt" />
-    <Content Include="build\ReinventProse2\xref-ReinventProse2.html" />
     <Content Include="edit.png" />
     <Content Include="edit2.png" />
     <Content Include="italic.png" />
@@ -49,10 +47,6 @@
     <Compile Include="MainWindow.py" />
     <Compile Include="NewBookDialog.py" />
     <Compile Include="Util.py" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="build\" />
-    <Folder Include="build\ReinventProse2" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
 </Project>
