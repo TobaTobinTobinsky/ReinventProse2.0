@@ -87,7 +87,11 @@ Este proyecto se encuentra en una fase de desarrollo activo. La versión actual 
 *   `CustomAboutDialog.py`: Ventana "Acerca de".
 *   `Exporter.py`: Lógica para exportar a TXT, DOCX, PDF.
 *   `Util.py`: Funciones de utilidad (carga de assets, etc.).
-*   `assets/`: (Directorio esperado) Contiene imágenes e iconos utilizados por la aplicación (ej. `app_icon.ico`, iconos de la barra de herramientas).
+## FUTURO:
+En próximas versiones se implementará un sistema de directorios tanto para módulos como para im´pagenes quedando los siguientes:
+*   `RPImages/`: (Directorio futuro) Contiene imágenes e iconos utilizados por la aplicación (ej. `app_icon.ico`, iconos de la barra de herramientas).
+*   `RPModules/` (Directorio futuro) Aquí se moverán todos los archivos de módulos del programa, quedando solamente main.py en la raíz del sistema.
+*   `RPDB/` (Directorio futuro) para mejorar la organización del programa, cuando se ejecute la creación de la base de datos, se creará en este directorio específico.
 
 ## Contribuciones
 
